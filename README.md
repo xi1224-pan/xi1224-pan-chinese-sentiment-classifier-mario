@@ -6,14 +6,14 @@
 - 中立（1）
 - 正面（2）
 
-## 📌 專案特色
+## 專案特色
 - 使用 Huggingface Transformers 微調 `bert-base-chinese`
 - 訓練資料為自行整理之 PTT 與巴哈姆特留言
 - 分類精度達 88% validation accuracy（在 3 類別上）
 - 提供 `predict.py` CLI 工具與 Streamlit Demo App
 
 
-## 📂 專案結構
+## 專案結構
 
 ```
 chinese-sentiment-classifier/
@@ -35,5 +35,5 @@ chinese-sentiment-classifier/
     └── model.bin / config.json   ← 訓練完成模型參數（如需提供）
 ```
 
-## 🖼️ 訓練結果範例
+## 訓練結果範例
 ![](results/training_summary.png)
