@@ -28,12 +28,11 @@ chinese-sentiment-classifier/
 │   └── bert_sentiment_classifier.ipynb  ← 原始訓練筆記本
 ├── results/
 │   └── training_summary.png      ← 訓練過程圖（loss/acc/val loss）
-![image](https://github.com/user-attachments/assets/649ea6b8-b814-493d-9e49-5661549ed627)
 └── models/（可選）
     └── model.bin / config.json   ← 訓練完成模型參數
 ```
 
 ## 訓練結果及範例
 
-
+![image](https://github.com/user-attachments/assets/649ea6b8-b814-493d-9e49-5661549ed627)
 ![image](https://github.com/user-attachments/assets/5ecb1fb3-dd1c-42a2-bcb1-7b039a1f9c80)
