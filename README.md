@@ -24,11 +24,9 @@ chinese-sentiment-classifier/
 ├── data/
 │   ├── irony_labels.csv          ← 反諷分類資料
 │   ├── odyssey_labels.csv        ← 奧德賽評論標註資料
-│   └── new_comments.csv          ← 最新評論資料
+│   └── new_comments.csv          ← 增加訓練評論資料
 ├── notebooks/
 │   └── bert_sentiment_classifier.ipynb  ← 原始訓練筆記本
-├── app/
-│   └── app.py                    ← Streamlit Demo（目前不使用）
 ├── results/
 │   └── training_summary.png      ← 訓練過程圖（loss/acc/val loss）
 └── models/（可選）
@@ -36,4 +34,4 @@ chinese-sentiment-classifier/
 ```
 
 ## 訓練結果範例
-![](results/training_summary.png)
+(results/training_summary.png)
