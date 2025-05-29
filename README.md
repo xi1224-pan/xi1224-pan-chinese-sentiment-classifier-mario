@@ -34,4 +34,5 @@ chinese-sentiment-classifier/
 ```
 
 ## 訓練結果範例
-(results/training_summary.png)
+
+![image](https://github.com/user-attachments/assets/649ea6b8-b814-493d-9e49-5661549ed627)
